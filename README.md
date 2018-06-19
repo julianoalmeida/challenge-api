@@ -21,7 +21,7 @@ pip install -U docker-compose
 Clone the repository and install it:
 
 ```bash 
-https://github.com/julianoalmeida/challenge.git
+git clone https://github.com/julianoalmeida/challenge_api.git
 ```
 
 Go to `sources root` directory:
