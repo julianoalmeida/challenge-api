@@ -45,7 +45,7 @@ docker-compose up
 Running the tests:
 
 ```bash
-docker-compose run app python manage.py test scheduling -v 2
+docker-compose run app python manage.py test api -v 2
 ```
 
 ### After the execution of all the above commands, your scheduling api is prepared to be used.
