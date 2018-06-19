@@ -42,7 +42,7 @@ Starting the application:
 ```bash
 docker-compose up
 ```
-Running the tests:
+Before running the tests, you need to open another terminal in application root directory and execute de command below:
 
 ```bash
 docker-compose run app python manage.py test api -v 2
